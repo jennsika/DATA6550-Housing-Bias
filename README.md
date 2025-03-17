@@ -4,7 +4,7 @@
 Individual notebooks can be found below: <br />
 - Harper Kates
 - Himani Patel
-- Jennifer Sika
+- [Jennifer Sika]([url](https://colab.research.google.com/drive/1XYQYPfdvHWoKWuJyK-a6rbrgIM8ujPN7))
   
 ## Data
 All available data for this project is linked below: <br />
